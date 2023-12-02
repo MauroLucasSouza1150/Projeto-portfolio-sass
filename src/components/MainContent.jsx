@@ -2,7 +2,7 @@ import '../styles/components/maincontent.sass'
 
 const MainContent = () => {
   return (
-    <div>MainContent</div>
+    <div id='main-content'>MainContent</div>
   )
 }
 

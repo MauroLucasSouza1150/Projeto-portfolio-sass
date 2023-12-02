@@ -14,7 +14,7 @@ function App() {
         <MainContent />
       </div>
     </>
-  )
+  );
 }
 
 export default App
